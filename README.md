@@ -10,7 +10,7 @@ Implement Frameworks the DevOps way By Simplilearn E-Commerce-Website-Sporty Sho
 • Demonstrating the product capabilities, appearance, and user interactions. 
 • Unique Selling Points of the Application • Conclusions
 
-The code for this project is hosted at : https://github.com/KUSALA-sura/E-Commerce-Website-For-Sporty-Shoes-Phase3
+The code for this project is hosted at : https://github.com/TruptiShah07/SportShoesProject/blob/main/README.md
 The project is developed by Trupti Shah.
 1.1 Project Description:
 Project objective: As a Full Stack Developer, complete the features of the application by planning the development and pushing the source code to the GitHub repository.
